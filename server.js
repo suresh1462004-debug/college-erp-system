@@ -82,15 +82,4 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 module.exports = app;
-```
 
-- Scroll down → Click **"Commit changes"**
-- Click **"Commit directly to main"** → Click **"Commit changes"**
-
----
-
-## 🔧 Step 3 — Wait 2 Minutes for Vercel to Redeploy
-
-Then open this in browser:
-```
-https://college-erp-system-f3qrim0uz-suresh1462004-4115s-projects.vercel.app/api/debug
